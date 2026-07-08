@@ -1,9 +1,3 @@
-console
-alert(
-.
-log
-(
-"Hello from JavaScript!"
-); 
-"JavaScript is successfully linked!"
-);
+console.log("Hello from JavaScript!");
+
+alert("JavaScript is successfully linked!");
